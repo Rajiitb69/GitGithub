@@ -1,0 +1,29 @@
+commit a58fee93c990250bf29a8e6379dc086a71dee974
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:19:23 2015 -0500
+
+    Agregué descripción
+
+commit 72c7107178137a8b1e05e5860156415680332f68
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:18:31 2015 -0500
+
+    Agregue links en Redes Sociales
+
+commit eae2f4430878c17b4ef0c556f8e7ba6c708c8488
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:15:46 2015 -0500
+
+    Agregué perfil web
+
+commit a11f083fdd048b6c7c646c0027f72c2cc61acfde
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:13:09 2015 -0500
+
+    Cambio de nombre y ávatar
+
+commit c5d498ec3fcb6de322a57d9835d8cad713fafb4d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:08:21 2015 -0500
+
+    Estos son los archivos base del portafolio
