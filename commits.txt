@@ -1,3 +1,15 @@
+commit 5e7cd923dda9f9a9d7faa1133eb45943842a3234
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 14:20:10 2015 -0500
+
+    Se modificó el título del archivo
+
+commit 93b18a941e997ec32a9303bf1533b2d148f6ae06
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 13:58:54 2015 -0500
+
+    Log de commits
+
 commit a58fee93c990250bf29a8e6379dc086a71dee974
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Tue Oct 6 18:19:23 2015 -0500
