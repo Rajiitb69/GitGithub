@@ -1,0 +1,28 @@
+* 534c4da Final
+*   a690840 Merge branch 'background' "Se cambió el color del background del proyecto a color negro"
+|\  
+| * 4234d99 Cambio del background a color negro
+* |   8aaa576 Merge branch 'description' Fuente de descrición de trabajo arreglado
+|\ \  
+| * | e55839a Cambio del tamaño de la fuente en la descripción del empleo
+| |/  
+* | 394f1f7 Se modificó el margen de los links de redes sociales
+|/  
+*   bd642b4 Selección de avatar. Fusión
+|\  
+| * 305450e Cambio de avatar 2
+| * e568a73 Cambio de avatar
+* | 0f62d63 Cambio de avatar
+|/  
+* ca648fc Se aumentó el tamaño de la fuente
+* 913c37b Se agregó LinkedIn
+* 2cfa87e Cambio del background a gris
+* 50b39e7 Nuevo cambio experimental de bg rojo en body
+* b9ecc90 Cambio experimental del bg del body
+* 5e7cd92 Se modificó el título del archivo
+* 93b18a9 Log de commits
+* a58fee9 Agregué descripción
+* 72c7107 Agregue links en Redes Sociales
+* eae2f44 Agregué perfil web
+* a11f083 Cambio de nombre y ávatar
+* c5d498e Estos son los archivos base del portafolio
