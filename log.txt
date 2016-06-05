@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit 8be3e1a12fd4af1838f5b7bf387f537bc0bc05b3
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sun Jun 5 11:43:39 2016 -0500
@@ -22,6 +23,25 @@ Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sun Jun 5 11:27:57 2016 -0500
 
     Cambio en el título del index
+=======
+commit 0c5f5b7206142b7ae82f8cefff42a25fbb51b3aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:47:03 2016 -0500
+
+    c.txt
+
+commit 2537a8e1e3c4ae4986b7e4d82476b53b0b557fcd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:46:46 2016 -0500
+
+    b.txt
+
+commit c684ea64e0b2f185513d313ed87b25e7ef8bcdf3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:46:26 2016 -0500
+
+    a.txt
+>>>>>>> development
 
 commit 11ed302d2c10012a930ff6e3eaf6ad1b561ad986
 Author: raulnabarret <raulnabarret@gmail.com>
@@ -29,6 +49,7 @@ Date:   Sun Jun 5 11:26:21 2016 -0500
 
     Cambio en el título del index
 
+<<<<<<< HEAD
 commit c05dea490c28944f964a0d16515e037d193aa9ca
 Merge: 9c72756 9e1b8e8
 Author: raulnabarret <raulnabarret@gmail.com>
@@ -36,12 +57,15 @@ Date:   Sun Jun 5 11:25:31 2016 -0500
 
     Anexo de los assets del sitio (css, js, imágenes)
 
+=======
+>>>>>>> development
 commit 9e1b8e861ab9aacf0c7e5224065517db5b35ad2d
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sun Jun 5 11:20:41 2016 -0500
 
     Anexo de los assets del sitio (css, js, imágenes)
 
+<<<<<<< HEAD
 commit 9c72756a3f20a173025d378858aa343144707566
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sun Jun 5 11:19:27 2016 -0500
@@ -54,6 +78,8 @@ Date:   Sun Jun 5 11:09:37 2016 -0500
 
     Creación del archivo index del proyecto
 
+=======
+>>>>>>> development
 commit 97d5fa3ff0f483680998adcdb64e5305eb492251
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Fri Jun 3 22:13:53 2016 -0500
