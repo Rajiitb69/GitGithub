@@ -1,0 +1,190 @@
+commit 0c5f5b7206142b7ae82f8cefff42a25fbb51b3aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:47:03 2016 -0500
+
+    c.txt
+
+commit 2537a8e1e3c4ae4986b7e4d82476b53b0b557fcd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:46:46 2016 -0500
+
+    b.txt
+
+commit c684ea64e0b2f185513d313ed87b25e7ef8bcdf3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:46:26 2016 -0500
+
+    a.txt
+
+commit 11ed302d2c10012a930ff6e3eaf6ad1b561ad986
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:26:21 2016 -0500
+
+    Cambio en el título del index
+
+commit 9e1b8e861ab9aacf0c7e5224065517db5b35ad2d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Jun 5 11:20:41 2016 -0500
+
+    Anexo de los assets del sitio (css, js, imágenes)
+
+commit 97d5fa3ff0f483680998adcdb64e5305eb492251
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jun 3 22:13:53 2016 -0500
+
+    Nuevo Curso de Platzi de Git y Github 2016. Creación inicial del proyecto y anexo del master del repositorio original
+
+commit 06d5ed4e71c39734a75c2b5c9b21bb8c2a165476
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 24 23:56:02 2016 -0600
+
+    Prueba
+
+commit a022727b4821bde8a02a957499dec55bb53d8fbb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Oct 11 11:15:59 2015 -0500
+
+    Commit 1
+
+commit c5419dea6c389b22d3ce8ff1bddcfca8a7c9c31e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Oct 9 20:08:54 2015 -0500
+
+    cambio de carpeta
+
+commit 534c4dae0ce065d1cdeee4aba596bd67f8d1efd4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:30:16 2015 -0500
+
+    Final
+
+commit a690840707e0f8266f500dc0f7d721019b4be652
+Merge: 8aaa576 4234d99
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:25:41 2015 -0500
+
+    Merge branch 'background'
+    "Se cambió el color del background del proyecto a color negro"
+
+commit 8aaa576fcd37fafe52a2fa2f74fed38cacd77e7a
+Merge: 394f1f7 e55839a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:24:31 2015 -0500
+
+    Merge branch 'description'
+    Fuente de descrición de trabajo arreglado
+
+commit 394f1f79b5f696e817fa3ac7533043500c7ba991
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:23:20 2015 -0500
+
+    Se modificó el margen de los links de redes sociales
+
+commit 4234d9914ce3c6828aef6c585c45891dc612c5e0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:21:04 2015 -0500
+
+    Cambio del background a color negro
+
+commit e55839a5cf8173f2ce839c8a2a549a7fe7288907
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:20:12 2015 -0500
+
+    Cambio del tamaño de la fuente en la descripción del empleo
+
+commit bd642b46dce75f2349bcb837fb64274ec809ee08
+Merge: 0f62d63 305450e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:14:08 2015 -0500
+
+    Selección de avatar. Fusión
+
+commit 305450e217cf146a2a5ebcb7cea60bbc64205d15
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:06:25 2015 -0500
+
+    Cambio de avatar 2
+
+commit 0f62d632281edef4733a2e3b44955a7592bede81
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:05:31 2015 -0500
+
+    Cambio de avatar
+
+commit e568a736f1f24ea808825acc23f5fbfb36fe6fb1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 16:04:02 2015 -0500
+
+    Cambio de avatar
+
+commit ca648fc676ed66c2066e0f97a41701bd7b3bce04
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 15:54:17 2015 -0500
+
+    Se aumentó el tamaño de la fuente
+
+commit 913c37b3f6c24eae937c9958d4fb4d27ffdc81b5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 15:53:28 2015 -0500
+
+    Se agregó LinkedIn
+
+commit 2cfa87e3293deb5d681ba30a228336bf87c1ef71
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 14:36:14 2015 -0500
+
+    Cambio del background a gris
+
+commit 50b39e7e2defe3bf06d7872e423f74ea1383abd4
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 14:29:33 2015 -0500
+
+    Nuevo cambio experimental de bg rojo en body
+
+commit b9ecc9096ae1230f24d755275897bc2b3edef733
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 14:25:43 2015 -0500
+
+    Cambio experimental del bg del body
+
+commit 5e7cd923dda9f9a9d7faa1133eb45943842a3234
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 14:20:10 2015 -0500
+
+    Se modificó el título del archivo
+
+commit 93b18a941e997ec32a9303bf1533b2d148f6ae06
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Oct 7 13:58:54 2015 -0500
+
+    Log de commits
+
+commit a58fee93c990250bf29a8e6379dc086a71dee974
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:19:23 2015 -0500
+
+    Agregué descripción
+
+commit 72c7107178137a8b1e05e5860156415680332f68
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:18:31 2015 -0500
+
+    Agregue links en Redes Sociales
+
+commit eae2f4430878c17b4ef0c556f8e7ba6c708c8488
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:15:46 2015 -0500
+
+    Agregué perfil web
+
+commit a11f083fdd048b6c7c646c0027f72c2cc61acfde
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:13:09 2015 -0500
+
+    Cambio de nombre y ávatar
+
+commit c5d498ec3fcb6de322a57d9835d8cad713fafb4d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Oct 6 18:08:21 2015 -0500
+
+    Estos son los archivos base del portafolio
